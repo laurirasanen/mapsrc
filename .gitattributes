@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.bsp			binary
+*.vmf			binary
+*.vmx			binary
+*.vmf_autosave	binary
+*.vmf_autosavx	binary
+*.prt			binary
