@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7937"
-	"mapversion" "1168"
+	"mapversion" "1170"
 	"formatversion" "100"
 	"prefab" "0"
 	autosave
@@ -24,7 +24,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1168"
+	"mapversion" "1170"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -103191,7 +103191,7 @@ entity
 		}
 		side
 		{
-			"id" "0"
+			"id" "230661"
 			"plane" "(6896 4000 24) (6943 4000 80) (6943 1832 80)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -1 0 0] 1"
@@ -103352,7 +103352,7 @@ entity
 	"origin" "6144 1820 1095.95"
 	editor
 	{
-		"color" "167 144 0"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -103538,13 +103538,57 @@ entity
 		"logicalpos" "[0 1000]"
 	}
 }
+entity
+{
+	"id" "197615"
+	"classname" "env_cubemap"
+	"cubemapsize" "0"
+	"origin" "6132 2060 -380"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "197639"
+	"classname" "env_cubemap"
+	"cubemapsize" "0"
+	"sides" ""
+	"origin" "6124 3080 1016"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "197828"
+	"classname" "env_cubemap"
+	"cubemapsize" "0"
+	"sides" ""
+	"origin" "6717.97 1252 548"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[6345.66 3802.94 1018.43]"
-		"look" "[6344.83 3802.4 1018.23]"
+		"position" "[6840.19 1487.79 534.168]"
+		"look" "[6839.28 1487.35 534.073]"
 	}
 }
 cordon
