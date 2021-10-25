@@ -7,13 +7,8 @@ WIP s&box map, HL:A tools
 ![001.jpg](/house1/screenshots/001.jpg)  
 ![002.jpg](/house1/screenshots/002.jpg)  
 ![003.jpg](/house1/screenshots/003.jpg)  
-![004.jpg](/house1/screenshots/004.jpg)
+![004.jpg](/house1/screenshots/004.jpg)  
 ![005.jpg](/house1/screenshots/005.jpg)  
-
-## jump_byte
-
-03/2021  
-WIP TF2 jump map.
 
 ## box13
 
@@ -26,6 +21,16 @@ Part of TF2 rocketjump mapping collab during covid-19.
 ![004.jpeg](/box13/screenshots/004.jpeg)  
 ![006.jpeg](/box13/screenshots/006.jpeg)  
 [More screenshots](/box13/screenshots)
+
+## jump_byte
+
+03/2021  
+WIP TF2 jump map.
+![001.jpg](/jump_byte/screenshots/001.png)  
+![002.jpg](/jump_byte/screenshots/002.png)  
+![003.jpg](/jump_byte/screenshots/003.png)  
+![004.jpg](/jump_byte/screenshots/004.png)  
+![005.jpg](/jump_byte/screenshots/005.png)  
 
 ## edgebugtest
 
