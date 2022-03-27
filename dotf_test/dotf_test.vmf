@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9109"
-	"mapversion" "43"
+	"mapversion" "44"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "43"
+	"mapversion" "44"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from itemtest"
 	"detailmaterial" "detail/detailsprites"
@@ -21133,8 +21133,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[361.412 -192.066 -94.4257]"
-		"look" "[393.163 -206.313 -100.575]"
+		"position" "[-163.513 -351.5 -120.846]"
+		"look" "[-192.442 -370.599 -127.723]"
 	}
 }
 cordon
